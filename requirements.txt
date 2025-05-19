@@ -4,4 +4,8 @@ pyyaml
 notebook
 requests
 python-dotenv
-markdown
+pandas
+seaborn
+scikit-learn
+progress
+flask
